@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-vivektiwari150704-gmailcoms-projects.vercel.app/](https://portfolio-vivektiwari150704-gmailcoms-projects.vercel.app/)
 
-- 💬 Ask me about **MongoDB | Express js | React js | Node js || SQL | PL/SQL | Figma**
+- 💬 Ask me about **MongoDB | Express js | React js | Node js | SQL | PL/SQL | Figma**
 
 - 📫 How to reach me **vivektiwariworkemail@gmail.com**
 
