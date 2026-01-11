@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **DevOps engineering**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-vivektiwari150704-gmailcoms-projects.vercel.app/](https://portfolio-vivektiwari150704-gmailcoms-projects.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://vivektiwariportfolio.vercel.app/](https://vivektiwariportfolio.vercel.app/)
 
 - 💬 Ask me about **MongoDB | Express js | React js | Node js | SQL | PL/SQL | Figma**
 
